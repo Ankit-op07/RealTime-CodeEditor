@@ -20,4 +20,20 @@ To run Server
 1. cd src
 2. node server.js
 
+# Technology Used
+
+Frontend:
+
+1. React
+2. Tailwind css
+3. TypeScript
+4. Vite
+5. CodeMirror
+6. Socket.io-client
+
+Backend:
+
+1. Express
+2. Socket.io
+
 
